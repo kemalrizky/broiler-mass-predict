@@ -1,3 +1,6 @@
+// Broiler Mass Prediction
+Dibuat untuk memenuhi tugas besar mata kuliah sains data rekayasa.
+
 1. Sebelum menjalankan program, Anda dapat melakukan 'make a copy' untuk file Google Colab dengan nama 
 'broilerWeightPrediction.ipynb'
 2. Program utama untuk image segementation dan prediksi rata-rata berat ayam yang digunakan adalah file google colab
