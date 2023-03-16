@@ -1,5 +1,5 @@
 // Broiler Mass Prediction
-Dibuat untuk memenuhi tugas besar mata kuliah sains data rekayasa.
+Dibuat untuk memenuhi tugas besar mata kuliah sains data rekayasa. Program ini menggunakan detectron untuk mengklasifikasi broiler dari suatu gambar dan memprediksi rata-rata berat broiler per hari.
 
 1. Sebelum menjalankan program, Anda dapat melakukan 'make a copy' untuk file Google Colab dengan nama 
 'broilerWeightPrediction.ipynb'
